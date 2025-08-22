@@ -16,12 +16,12 @@
 
 Дайте права на выполнение:
 
-chmod +x Wireguard_autoscript.sh
+chmod +x AutoConfig.sh
 
 
 Запустите:
 
-sudo ./Wireguard_autoscript.sh
+sudo ./AutoConfig.sh
 
 📂 Где искать файлы
 
